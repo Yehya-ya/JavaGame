@@ -1,2 +1,2 @@
 # JavaGame
-This is a java game build fully in OOP method
+This is a java game has been built fully using OOP method
